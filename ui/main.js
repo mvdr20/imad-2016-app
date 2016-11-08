@@ -1,1 +1,1 @@
-console.log('IMAD APP IS LOADED');
+var app=angular.module('profile',[]);
